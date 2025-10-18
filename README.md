@@ -26,7 +26,3 @@ Letter count: 10
 Word frequencies:  
 Hi: 2  
 World: 1
-
-
-
-##ٍطشئحمث
